@@ -1,0 +1,22 @@
+{
+  "package": "com.dmzj.manhua",
+  "recommended": true,
+  "verified": false,
+  "authors": [
+    "fython"
+  ],
+  "observers": [
+    {
+      "description": "app_backup",
+      "source": "backups"
+    },
+    {
+      "description": "downloaded_pictures",
+      "source": "dmzj/Cache"
+    },
+    {
+      "description": "test",
+      "source": "dmzj/Document"
+    }
+  ]
+}
